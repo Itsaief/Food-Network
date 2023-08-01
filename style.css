@@ -21,8 +21,19 @@ h1 {
 
 .flexible img {
     width: 90%;
+    margin-bottom: 100px;
+}
+
+.margin {
+    margin-bottom: 50px;
 }
 
 .button {
     text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    color: white;
+    font-size: larger;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 20px;
 }
