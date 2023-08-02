@@ -5,7 +5,7 @@ body {
 
 .portion {
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 .orange-color {
@@ -18,7 +18,7 @@ h1 {
 
 h2 {
     margin-top: 40px;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     font-size: 30px;
     font-weight: 700;
 }
@@ -57,4 +57,63 @@ h2 {
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 20px;
+}
+
+.recipe {
+    width: 60%;
+    text-align: center;
+    padding-left: 20%;
+    padding-bottom: 20px;
+}
+
+.recipe-bar {
+    box-shadow: 5px 5px 40px gray;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 13%;
+    padding: 2%;
+}
+
+.recipe-bar img {
+    width: 200px;
+}
+
+#margins {
+    margin-left: 19%;
+    margin-right: 50%;
+}
+
+.social {
+    display: flex;
+    box-shadow: 5px 5px 40px gray;
+    border-radius: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    padding-left: 10%;
+    margin-bottom: 80px;
+}
+
+.aling {
+    padding-right: 8%;
+}
+
+footer {
+    text-align: center;
+    box-shadow: 5px 5px 40px gray;
+    text-align: center;
+    padding-bottom: 3%;
+    padding-top: .5%;
+    background-color: rgb(35, 46, 43);
+    color: white;
+}
+
+.header {
+    text-align: center;
+    box-shadow: 5px 2px 40px orangered;
+    margin-left: 45%;
+    margin-right: 45%;
+    text-align: center;
+    border-radius: 50%;
+
 }
